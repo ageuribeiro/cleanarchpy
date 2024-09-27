@@ -1,0 +1,4 @@
+{
+    "python.listing.enabled": true, // Habilitando o guia de estilização
+    "python.listing.pyLintEnable": true, // Definindo a opção a ser utilizada
+}
